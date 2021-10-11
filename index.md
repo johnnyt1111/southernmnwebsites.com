@@ -7,12 +7,12 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11" />
 	<title>Site Title</title>
 <meta name='robots' content='max-image-preview:large' />
-<link rel='dns-prefetch' href='//southernmnwebsites.wordpress.com' />
+<link rel='dns-prefetch' href='https://johnnyt1111.github.io/southernmnwebsites.com/' />
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//wordpress.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Site Title &raquo; Feed" href="https://southernmnwebsites.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Site Title &raquo; Comments Feed" href="https://southernmnwebsites.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Site Title &raquo; Feed" href="https://johnnyt1111.github.io/southernmnwebsites.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Site Title &raquo; Comments Feed" href="https://johnnyt1111.github.io/southernmnwebsites.com//comments/feed/" />
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		function addLoadEvent(func) {
@@ -128,7 +128,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				} )();
 			</script>
 			<script id='wpcom-actionbar-placeholder-js-extra'>
-var actionbardata = {"siteID":"198571342","siteName":"Site Title","siteURL":"https:\/\/southernmnwebsites.com","siteHost":"southernmnwebsites.com","icon":"<img alt='' src='https:\/\/s0.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/maywood","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fsouthernmnwebsites.com%252F","themeURL":"https:\/\/wordpress.com\/theme\/maywood\/","xhrURL":"https:\/\/southernmnwebsites.com\/wp-admin\/admin-ajax.php","nonce":"ea187f8a7f","isSingular":"1","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"534ed410d3\" \/>","referer":"https:\/\/southernmnwebsites.com\/","canFollow":"1","feedID":"122731682","statusMessage":"","subsEmailDefault":"instantly","customizeLink":"https:\/\/southernmnwebsites.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fsouthernmnwebsites.wordpress.com%2F","postID":"24","shortlink":"https:\/\/wp.me\/PdrbtA-o","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/southernmnwebsites.com\/24","statsLink":"https:\/\/wordpress.com\/stats\/post\/24\/southernmnwebsites.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get help setting up your theme","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fsouthernmnwebsites.com%252F\">Log in now.<\/a>","stats":"Stats","notifyNewPosts":"Notify me of new posts","notifyNewPostsDetails":"Receive web and mobile notifications for new posts from this site.","emailNewPosts":"Email me new posts","emailNewPostsDetails":"You can customize your notification settings further <a href=\"https:\/\/wordpress.com\/following\/manage?s=southernmnwebsites.com\">here<\/a>.","emailNewComments":"Email me new comments","instantly":"Instantly","daily":"Daily","weekly":"Weekly"}};
+var actionbardata = {"siteID":"198571342","siteName":"Site Title","siteURL":"https:\/\/johnnyt1111.github.io/southernmnwebsites.com/","siteHost":"johnnyt1111.github.io/southernmnwebsites.com/","icon":"<img alt='' src='https:\/\/s0.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/maywood","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fjohnnyt1111.github.io/southernmnwebsites.com/%252F","themeURL":"https:\/\/wordpress.com\/theme\/maywood\/","xhrURL":"https:\/\/johnnyt1111.github.io/southernmnwebsites.com/\/wp-admin\/admin-ajax.php","nonce":"ea187f8a7f","isSingular":"1","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"534ed410d3\" \/>","referer":"https:\/\/johnnyt1111.github.io/southernmnwebsites.com/\/","canFollow":"1","feedID":"122731682","statusMessage":"","subsEmailDefault":"instantly","customizeLink":"https:\/\/johnnyt1111.github.io/southernmnwebsites.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fjohnnyt1111.github.io/southernmnwebsites.com/%2F","postID":"24","shortlink":"https:\/\/wp.me\/PdrbtA-o","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/johnnyt1111.github.io/southernmnwebsites.com/\/24","statsLink":"https:\/\/wordpress.com\/stats\/post\/24\/johnnyt1111.github.io/southernmnwebsites.com/","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get help setting up your theme","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fjohnnyt1111.github.io/southernmnwebsites.com/%252F\">Log in now.<\/a>","stats":"Stats","notifyNewPosts":"Notify me of new posts","notifyNewPostsDetails":"Receive web and mobile notifications for new posts from this site.","emailNewPosts":"Email me new posts","emailNewPostsDetails":"You can customize your notification settings further <a href=\"https:\/\/wordpress.com\/following\/manage?s=johnnyt1111.github.io/southernmnwebsites.com/\">here<\/a>.","emailNewComments":"Email me new comments","instantly":"Instantly","daily":"Daily","weekly":"Weekly"}};
 </script>
 <script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJyNz8EKwjAMBuAXsisqc3oQn2WrWUlpm9qkbHt7e9hBpIgQCCEf4Y9eksJofHkCa1frVSBve+sCxs7xQf9CKqDNo8AnNhQFouhQVPLFYmTNZWKTMQlSnWbynpZvXk8nYgnAPFpobANN6EEVhlxBlJpqpobLXlTKtG6t9Jz++Krb1SPcj5fTcLv2Q392b6v9cFw='></script>
 <script type='text/javascript'>
@@ -136,24 +136,24 @@ var actionbardata = {"siteID":"198571342","siteName":"Site Title","siteURL":"htt
 		rltInitialize( {"token":"rlt-MnxpWEYvRm05RklCR3NYU0ZQbTFFcDVieGRFd2VYWXVIdVZyY2xQd2RvSUI5aVIxQk9ZSk1LU2N0OHg0UFJyWFRMU0ppTHN5QjUvRTFGUHo4SmZIZTlKY1VBanBMQy9vN0d1SktsK2N6dXFuVnhaMVZEUEFlOGJDTjJTSXpldnhEQk1yQk85N3gzaXY5RmtCOFp6MFNNTTY2eDFrT3pINkVpa1Y4WHVEUk10N05HOWNNQ20xc2xoYUVCdXpHb1Z5Z21JMlVrQVhTV3FxY3A1eFFZckxsaXN0MkowQmtxUTkxQSsrZDNkZ3hFd3B0K0hjTlVtdi9paWcwYi9Wd1dhMnNHTE02aFpNT0puY2xnQndwczRSOFQyZzlWUTJBL0I3UkcvekdoV3pGZG9WcTR1RnFPZFBseSswYz18YmZlYWMzMGZiYjhkYzNmMjA2OWFjN2M4Mjg2ODFjMzhkNTIzNDVlNTE1MGY1YmM2fDJmZTNjZTI4MDhmNzM1MmNhYzM2OTA0ZWNiYjFkOWFmOGMxZGVjYzgzYjVkYjhkZmZhNTI3MWY5ZjExNjZlYjIxODA4YTIxNWRlMWJhZTBmM2E2ZmVjNjRiM2VhNjA4Y2QyNGM5ZmFkNWM5ZWZjZjk4N2JkOTJiOTRkZTQyMmE3","iframeOrigins":["https:\/\/widgets.wp.com"]} );
 	} );
 </script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://southernmnwebsites.wordpress.com/xmlrpc.php?rsd" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://johnnyt1111.github.io/southernmnwebsites.com//xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress.com" />
-<link rel="canonical" href="https://southernmnwebsites.com/" />
+<link rel="canonical" href="https://johnnyt1111.github.io/southernmnwebsites.com/" />
 <link rel='shortlink' href='https://wp.me/PdrbtA-o' />
-<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fsouthernmnwebsites.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fsouthernmnwebsites.com%2F&amp;for=wpcom-auto-discovery" />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fjohnnyt1111.github.io/southernmnwebsites.com/%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fjohnnyt1111.github.io/southernmnwebsites.com/%2F&amp;for=wpcom-auto-discovery" />
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Site Title" />
-<meta property="og:url" content="https://southernmnwebsites.com/" />
+<meta property="og:url" content="https://johnnyt1111.github.io/southernmnwebsites.com/" />
 <meta property="og:site_name" content="Site Title" />
-<meta property="og:image" content="https://southernmnwebsites.files.wordpress.com/2021/10/pexels-photo-7583935.jpeg" />
+<meta property="og:image" content="https://johnnyt1111.github.io/southernmnwebsites.com//2021/10/pexels-photo-7583935.jpeg" />
 <meta property="og:image:width" content="867" />
 <meta property="og:image:height" content="1300" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:site" content="@wordpressdotcom" />
 <meta name="twitter:text:title" content="Southern MN websites" />
-<meta name="twitter:image" content="https://southernmnwebsites.files.wordpress.com/2021/10/pexels-photo-7583935.jpeg?w=640" />
+<meta name="twitter:image" content="https://johnnyt1111.github.io/southernmnwebsites.com//2021/10/pexels-photo-7583935.jpeg?w=640" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:description" content="Visit the post for more." />
 <meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
@@ -162,9 +162,9 @@ var actionbardata = {"siteID":"198571342","siteName":"Site Title","siteURL":"htt
 <link rel="shortcut icon" type="image/x-icon" href="https://s0.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
 <link rel="icon" type="image/x-icon" href="https://s0.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
 <link rel="apple-touch-icon" href="https://s0.wp.com/i/webclip.png" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://southernmnwebsites.com/osd.xml" title="Site Title" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://johnnyt1111.github.io/southernmnwebsites.com/osd.xml" title="Site Title" />
 <link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
-<meta name="application-name" content="Site Title" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage Site Title." /><meta name="msapplication-task" content="name=Edit page;action-uri=https://wordpress.com/page/southernmnwebsites.com/24;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/southernmnwebsites.com;icon-uri=https://s0.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://southernmnwebsites.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://southernmnwebsites.wordpress.com/wp-admin/media-new.php;icon-uri=https://s0.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://southernmnwebsites.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s0.wp.com/i/icons/stats.ico" /><meta name="description" content="Southern MN websites Welcome to SMW The Southern Minnesotas&#039; web composition experts at ACS ensure your website the two look inconceivable and contribute toward your business targets. Regardless of whether you&#039;re revolved around driving Internet business bargains or delivering drives, we arrange all fundamental parts to ensure your webpage&#039;s usability works reliably nearby its remarkable&hellip;" />
+<meta name="application-name" content="Site Title" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Author posts, manage comments, and manage Site Title." /><meta name="msapplication-task" content="name=Edit page;action-uri/johnnyt1111.github.io/southernmnwebsites.com/24;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=Write a post;action-uri=https://johnnyt1111.github.io/southernmnwebsites.com/;icon-uri=https://s0.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://johnnyt1111.github.io/southernmnwebsites.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://johnnyt1111.github.io/southernmnwebsites.com/wp-admin/media-new.php;icon-uri=https://s0.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://johnnyt1111.github.io/southernmnwebsites.com/wp-admin/index.php?page=stats;icon-uri=https://s0.wp.com/i/icons/stats.ico" /><meta name="description" content="Southern MN websites Welcome to SMW The Southern Minnesotas&#039; web composition experts at ACS ensure your website the two look inconceivable and contribute toward your business targets. Regardless of whether you&#039;re revolved around driving Internet business bargains or delivering drives, we arrange all fundamental parts to ensure your webpage&#039;s usability works reliably nearby its remarkable&hellip;" />
 <!-- There is no amphtml version available for this URL. --><style type="text/css" media="print">#wpadminbar { display:none; }</style>
 	<style type="text/css" media="screen">
 	html { margin-top: 32px !important; }
@@ -183,16 +183,16 @@ var actionbardata = {"siteID":"198571342","siteName":"Site Title","siteURL":"htt
 						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
 						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
 			
-		<li id="wp-admin-bar-blog" class="my-sites mb-trackable"><a class="ab-item"  href="https://wordpress.com/sites/southernmnwebsites.com">My Sites</a>		</li>
+		<li id="wp-admin-bar-blog" class="my-sites mb-trackable"><a class="ab-item"  href="https://wordpress.com/sites/johnnyt1111.github.io/southernmnwebsites.com/">My Sites</a>		</li>
 		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
 		<li id="wp-admin-bar-newdash" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/read">Reader</a>		</li>		</ul>
 			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
 			
 		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notifications</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
 		<li id="wp-admin-bar-my-account" class="with-avatar mb-trackable"><a class="ab-item"  href="https://wordpress.com/me/"><img alt='' src='https://2.gravatar.com/avatar/866996c0fde083e5f870c6bee227964f?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Me</span></a>		</li>
-		<li id="wp-admin-bar-ab-new-post" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/post/southernmnwebsites.com"><span>Write</span></a>		</li>		</ul>
+		<li id="wp-admin-bar-ab-new-post" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/post/johnnyt1111.github.io/southernmnwebsites.com/"><span>Write</span></a>		</li>		</ul>
 				</div>
-							<a class="screen-reader-shortcut" href="https://southernmnwebsites.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=5bf373bd28">Log Out</a>
+							<a class="screen-reader-shortcut" href="https://johnnyt1111.github.io/southernmnwebsites.com/wp-login.php?action=logout&#038;_wpnonce=5bf373bd28">Log Out</a>
 					</div>
 
 	
@@ -290,7 +290,7 @@ jQuery(document).ready( function($) {
 <header id="masthead" class="site-header responsive-max-width has-title-and-tagline has-menu" role="banner">
 	<div class="site-branding">
 
-								<p class="site-title"><a href="https://southernmnwebsites.com/" rel="home">Site Title</a></p>
+								<p class="site-title"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/" rel="home">Site Title</a></p>
 			
 	</div><!-- .site-branding -->
 		<nav id="site-navigation" class="main-navigation" aria-label="Main Navigation">
@@ -303,9 +303,9 @@ jQuery(document).ready( function($) {
 			<span class="hide-visually collapsed-text">collapsed</span>
 		</label>
 
-		<div class="menu-primary-container"><ul id="menu-primary-1" class="main-menu" aria-label="submenu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-32"><a href="https://southernmnwebsites.com/" aria-current="page">Southern MN websites</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://southernmnwebsites.com/menu/">SEO</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://southernmnwebsites.com/news/">News</a></li>
+		<div class="menu-primary-container"><ul id="menu-primary-1" class="main-menu" aria-label="submenu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-32"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/" aria-current="page">Southern MN websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/menu/">SEO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/news/">News</a></li>
 </ul></div>	</nav><!-- #site-navigation -->
 		<nav class="social-navigation" role="navigation" aria-label="Social Links Menu">
 		<div class="menu-social-container"><ul id="menu-social" class="social-links-menu"><li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="http://facebook.com"><span class="screen-reader-text">Facebook</span><svg class="svg-icon" width="26" height="26" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M20.007,3H3.993C3.445,3,3,3.445,3,3.993v16.013C3,20.555,3.445,21,3.993,21h8.621v-6.971h-2.346v-2.717h2.346V9.31 c0-2.325,1.42-3.591,3.494-3.591c0.993,0,1.847,0.074,2.096,0.107v2.43l-1.438,0.001c-1.128,0-1.346,0.536-1.346,1.323v1.734h2.69 l-0.35,2.717h-2.34V21h4.587C20.555,21,21,20.555,21,20.007V3.993C21,3.445,20.555,3,20.007,3z"></path></svg></a></li>
@@ -331,8 +331,8 @@ jQuery(document).ready( function($) {
 	
 	<div class="entry-content">
 		
-<div class="wp-block-cover alignfull has-background-dim-30 has-foreground-dark-background-color has-background-dim"><img data-attachment-id="50" data-permalink="https://southernmnwebsites.com/home/pexels-photo-7583935/" data-orig-file="https://southernmnwebsites.files.wordpress.com/2021/10/pexels-photo-7583935.jpeg" data-orig-size="867,1300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="macbook pro on white table" data-image-description="" data-image-caption="&lt;p&gt;Photo by Mikhail Nilov on &lt;a href=&quot;https://www.pexels.com/photo/macbook-pro-on-white-table-7583935/&quot; rel=&quot;nofollow&quot;&gt;Pexels.com&lt;/a&gt;&lt;/p&gt;
-" data-medium-file="https://southernmnwebsites.files.wordpress.com/2021/10/pexels-photo-7583935.jpeg?w=200" data-large-file="https://southernmnwebsites.files.wordpress.com/2021/10/pexels-photo-7583935.jpeg?w=683" class="wp-block-cover__image-background wp-image-50" alt="" src="https://southernmnwebsites.files.wordpress.com/2021/10/pexels-photo-7583935.jpeg" style="object-position:50% 50%;" data-object-fit="cover" data-object-position="50% 50%" /><div class="wp-block-cover__inner-container">
+<div class="wp-block-cover alignfull has-background-dim-30 has-foreground-dark-background-color has-background-dim"><img data-attachment-id="50" data-permalink="https://johnnyt1111.github.io/southernmnwebsites.com/home/pexels-photo-7583935/" data-orig-file="https://johnnyt1111.github.io/southernmnwebsites.com//2021/10/pexels-photo-7583935.jpeg" data-orig-size="867,1300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="macbook pro on white table" data-image-description="" data-image-caption="&lt;p&gt;Photo by Mikhail Nilov on &lt;a href=&quot;https://www.pexels.com/photo/macbook-pro-on-white-table-7583935/&quot; rel=&quot;nofollow&quot;&gt;Pexels.com&lt;/a&gt;&lt;/p&gt;
+" data-medium-file="https://johnnyt1111.github.io/southernmnwebsites.com/2021/10/pexels-photo-7583935.jpeg?w=200" data-large-file="https://johnnyt1111.github.io/southernmnwebsites.com//2021/10/pexels-photo-7583935.jpeg?w=683" class="wp-block-cover__image-background wp-image-50" alt="" src="https://johnnyt1111.github.io/southernmnwebsites.com/2021/10/pexels-photo-7583935.jpeg" style="object-position:50% 50%;" data-object-fit="cover" data-object-position="50% 50%" /><div class="wp-block-cover__inner-container">
 <div style="height:96px;" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -426,7 +426,7 @@ jQuery(document).ready( function($) {
 	</div><!-- .entry-content -->
 
 			<footer class="entry-footer responsive-max-width">
-			<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/southernmnwebsites.com/24">Edit <span class="screen-reader-text">Southern MN websites</span></a></span>		</footer><!-- .entry-footer -->
+			<span class="edit-link"><a class="post-edit-link" href="https://johnnyt1111.github.io/southernmnwebsites.com/24">Edit <span class="screen-reader-text">Southern MN websites</span></a></span>		</footer><!-- .entry-footer -->
 	</article><!-- #post-24 -->
 
 		</main><!-- #main -->
@@ -438,14 +438,14 @@ jQuery(document).ready( function($) {
 	
 	<footer id="colophon" class="site-footer responsive-max-width">
 				<nav class="footer-navigation" aria-label="Footer Menu">
-		<div class="menu-primary-container"><ul id="menu-primary-2" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-32"><a href="https://southernmnwebsites.com/" aria-current="page">Southern MN websites</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://southernmnwebsites.com/menu/">SEO</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://southernmnwebsites.com/news/">News</a></li>
+		<div class="menu-primary-container"><ul id="menu-primary-2" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-32"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/" aria-current="page">Southern MN websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/menu/">SEO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://johnnyt1111.github.io/southernmnwebsites.com/news/">News</a></li>
 </ul></div>	</nav><!-- .footer-navigation -->
 
 	
 		<div class="site-info">
-		<a class="site-name" href="https://southernmnwebsites.com/" rel="home">Site Title</a><span class="comma">,</span>
+		<a class="site-name" href="https://johnnyt1111.github.io/southernmnwebsites.com/" rel="home">Site Title</a><span class="comma">,</span>
 <a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a>	</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 
@@ -510,7 +510,7 @@ jQuery(document).ready( function($) {
 				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
 				nonce = nonce[1];
 
-				$.post( "https:\/\/southernmnwebsites.com\/wp-admin\/admin-ajax.php", {
+				$.post( "https:\/\/southernmnwebsites\/wp-admin\/admin-ajax.php", {
 					'action': action,
 					'_wpnonce': nonce,
 					'source': 'admin_bar',
@@ -775,11 +775,11 @@ var comment_like_text = {"loading":"Loading..."};
 var wpNotesArgs = {"cacheBuster":"calypso-4917-2127-g8dffda7941v2","iframeUrl":"https:\/\/widgets.wp.com\/notifications\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
 </script>
 <script id='tos-report-form-js-extra'>
-var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"24","current_url":"https:\/\/southernmnwebsites.com","report_this_content":"Report this content"};
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"24","current_url":"https:\/\/johnnyt1111.github.io/southernmnwebsites.com/","report_this_content":"Report this content"};
 </script>
 <script id='jetpack-carousel-js-extra'>
 var jetpackSwiperLibraryPath = {"url":"\/wp-content\/mu-plugins\/carousel\/swiper-bundle.js"};
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"1","lang":"en","ajaxurl":"https:\/\/southernmnwebsites.com\/wp-admin\/admin-ajax.php","nonce":"4576846e01","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/southernmnwebsites.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fsouthernmnwebsites.com%2F","blog_id":"198571342","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=198571342&v=wpcom&tz=-5&user=1&user_id=200327429&subd=southernmnwebsites","is_public":"1"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"1","lang":"en","ajaxurl":"https:\/\/johnnyt1111.github.io/southernmnwebsites.com/\/wp-admin\/admin-ajax.php","nonce":"4576846e01","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/southernmnwebsites.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fjohnnyt1111.github.io/southernmnwebsites.com/%2F","blog_id":"198571342","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=198571342&v=wpcom&tz=-5&user=1&user_id=200327429&subd=johnnyt1111.github.io/southernmnwebsites.","is_public":"1"};
 </script>
 <script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJyVUltywyAMvFAJk7rJX6dnwVitIQZRCRzn9pXzapohj/7YlnaX1QrrbVIWY4aYtWfdwegspGnh+UUL5KIdSgc8Y7l3dtPidP6okXocgdz+POV5EVyssUwngGoNXRJOY4Si0lC+XLzgCW4xqF/dbY3wwuw+uM3BbHCt5q1L8B/Rn0YtQokdEFskuBWyNfOWItQyChwKZ2P7e1NFzHB8qnkgjGp8fcg/L+k+OSMrgoSU1SdSuK6fupVgOAPNVpkkLVdi+u8CtDu+FodrTITTTsykx7m2OikhtNA9+D2sISwMg/aQk/irU+MJjdqPclWK7iO8L9dN06zeVsu1/wFXZCnw'></script>
 	<script>
@@ -807,7 +807,7 @@ _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['identifyUser', 200327429, 'johnnyt1965']);
 _tkq.push(['storeContext', {'blog_id':'198571342','blog_tz':'-5','user_lang':'en','blog_lang':'en'}]);
-_stq.push(['view', {'blog':'198571342','v':'wpcom','tz':'-5','user':'1','user_id':'200327429','post':'24','subd':'southernmnwebsites'}]);
+_stq.push(['view', {'blog':'198571342','v':'wpcom','tz':'-5','user':'1','user_id':'200327429','post':'24','subd':'johnnyt1111.github.io/southernmnwebsites'}]);
 _stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdVc3aWJOWS5HTFptM1p6ZUVVcEFDZEhSJXctZy1TVzc4c2wuM1csUD0vWjVrX0o3dnJzOURVS1AudXZLMXRCVzYtS25zcS82Jj9TaVJiVCwmNHdCTD9LRDNYV0hlX0otaF98PSxjci5uOXg2VklQeXJSZ0N5RHhUS21nRGQ4fFhCRDBwd01qLDJMX1hPRGRkenBQMC1Mek0lP04xRUg1LnxCbENQYytyS0hWckVqWSx4cHVFTlcyT3RhblpoNF1FeFZCNFpON3dOLlIyREpMPWstRGclTStrSlhmMVtWPUxjMUJ3PVhzXTc='}]);
 	</script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
